@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9208-5E22
+
+ Directory of C:\Users\RITESH\Desktop\MyJavaProject
+
+30/12/2019  04:03 PM    <DIR>          .
+30/12/2019  04:03 PM    <DIR>          ..
+30/12/2019  03:32 PM               760 FirstProg.class
+20/07/2019  06:37 PM               220 FirstProg.java
+30/12/2019  04:03 PM                 0 SecondProg.txt
+               3 File(s)            980 bytes
+               2 Dir(s)  11,038,654,464 bytes free
